@@ -45,6 +45,3 @@ It provides a clear view of hospital case types, specialties, and age profiles t
 
 ---
 
-### 📎 **Dataset**
-*(Optional — add if you can share it)*  
-Confidential data has been anonymized for visualization purposes.
