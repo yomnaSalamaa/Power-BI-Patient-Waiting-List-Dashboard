@@ -27,7 +27,7 @@ It provides a clear view of hospital case types, specialties, and age profiles t
 
 ### 🛠️ **Tools Used**
 - **Power BI Desktop**
-- **Excel / SQL** (for data preparation)
+- **Power Query** for data cleaning and transformation
 - **DAX** for calculations and KPIs
 
 ---
